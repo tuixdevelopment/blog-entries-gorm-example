@@ -1,1 +1,1 @@
-# blog-entries-gorm-example
+# Using GORM with Golang microservices
